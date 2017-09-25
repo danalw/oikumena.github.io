@@ -1,4 +1,4 @@
-rm -rf index/
+rm -rf o/
 perl index.pl &>.build
 git add .
 git commit -m "$(date)"
