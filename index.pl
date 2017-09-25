@@ -27,7 +27,7 @@ my $msg = {
 # file entries
 my $file = {
   # playlist dir
-  dir_pl      => catdir('index'),
+  dir_pl      => catdir('o'),
   # JSON file
   data        => catfile('data', 'www-playlist.json'),
   # index.html
