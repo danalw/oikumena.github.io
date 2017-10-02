@@ -10,6 +10,10 @@
   overflow: hidden;
 }
 
+.thumbnail h3 {
+  color: orange;
+}
+
 a {
   text-decoration: underline !important;
   color: black !important;
